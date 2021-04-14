@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.b3167c80.chunk.css",
-    "main.js": "/static/js/main.68924c98.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.5b865366.js",
+    "main.js": "/static/js/main.2d7dd07a.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.ad4cf516.js",
     "static/css/2.1492a07e.chunk.css": "/static/css/2.1492a07e.chunk.css",
     "static/js/2.b064f214.chunk.js": "/static/js/2.b064f214.chunk.js",
     "static/js/3.4fc68000.chunk.js": "/static/js/3.4fc68000.chunk.js",
-    "static/js/4.8a6e9927.chunk.js": "/static/js/4.8a6e9927.chunk.js",
+    "static/js/4.446b0a5d.chunk.js": "/static/js/4.446b0a5d.chunk.js",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "static/js/2.b064f214.chunk.js.LICENSE.txt": "/static/js/2.b064f214.chunk.js.LICENSE.txt",
@@ -76,10 +76,10 @@
     "static/media/victory.fd5742a4.mp3": "/static/media/victory.fd5742a4.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b865366.js",
+    "static/js/runtime-main.ad4cf516.js",
     "static/css/2.1492a07e.chunk.css",
     "static/js/2.b064f214.chunk.js",
     "static/css/main.b3167c80.chunk.css",
-    "static/js/main.68924c98.chunk.js"
+    "static/js/main.2d7dd07a.chunk.js"
   ]
 }
